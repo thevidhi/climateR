@@ -1,0 +1,4 @@
+export(fetch_climate_data)
+export(clean_climate_data)
+export(detect_anomalies)
+export(plot_climate_trend)

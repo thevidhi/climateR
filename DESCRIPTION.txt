@@ -1,0 +1,16 @@
+Package: climateR
+Type: Package
+Title: Climate Data Analysis Toolkit
+Version: 0.1.0
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: Tools to fetch, clean, analyze, and visualize climate data.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    httr,
+    jsonlite,
+    ggplot2,
+    dplyr,
+    lubridate
